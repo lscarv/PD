@@ -10,4 +10,4 @@ DATEPART(YEAR, CancellationDate),
 DATEPART(MONTH, CancellationDate)
 ORDER BY 
 DATEPART(YEAR, CancellationDate) Asc,
-DATEPART(MONTH, CancellationDate) Asc	
+DATEPART(MONTH, CancellationDate) Asc;	
